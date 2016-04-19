@@ -1,0 +1,18 @@
+{
+  "name": "eltron_test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Charles A Moss",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.6"
+  },
+  "dependencies": {
+    "feed-read": "0.0.1",
+    "pretty-bytes": "^3.0.1"
+  }
+}
