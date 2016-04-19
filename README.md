@@ -6,10 +6,10 @@
 _Modeling rss feed reader in Electron_
 
 ## Setup
-_Clone and run npm install_
+_Clone and run npm install, run npm start_
 
 ## Technologies Used
-_This project makes use of: [Electron](http://electron.atom.io/), [jQuery.rss](https://github.com/sdepold/jquery-rss)_
+_This project makes use of: [Electron](http://electron.atom.io/), [jQuery.rss](https://github.com/sdepold/jquery-rss), [Feednami](https://github.com/sekando/feednami-client), [Underscore.js](http://underscorejs.org/)_
 
 ### Legal
 Copyright (c) 2016 Charles A Moss
